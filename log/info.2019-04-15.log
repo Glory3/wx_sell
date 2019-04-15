@@ -1,0 +1,36 @@
+Starting WxSellApplication on 5WOIQNK1R4RAT5X with PID 8732 (E:\project\java\javaee\wx_sell\target\classes started by Administrator in E:\project\java\javaee\wx_sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1075 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started WxSellApplication in 2.014 seconds (JVM running for 2.67)
+Starting WxSellApplication on 5WOIQNK1R4RAT5X with PID 8412 (E:\project\java\javaee\wx_sell\target\classes started by Administrator in E:\project\java\javaee\wx_sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1094 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started WxSellApplication in 2.046 seconds (JVM running for 2.638)
+Starting WxSellApplication on 5WOIQNK1R4RAT5X with PID 8592 (E:\project\java\javaee\wx_sell\target\classes started by Administrator in E:\project\java\javaee\wx_sell)
+No active profile set, falling back to default profiles: default
+Tomcat initialized with port(s): 8080 (http)
+Initializing ProtocolHandler ["http-nio-8080"]
+Starting service [Tomcat]
+Starting Servlet engine: [Apache Tomcat/9.0.17]
+Initializing Spring embedded WebApplicationContext
+Root WebApplicationContext: initialization completed in 1241 ms
+Initializing ExecutorService 'applicationTaskExecutor'
+Starting ProtocolHandler ["http-nio-8080"]
+Tomcat started on port(s): 8080 (http) with context path ''
+Started WxSellApplication in 2.153 seconds (JVM running for 2.757)
