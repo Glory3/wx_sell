@@ -14,7 +14,7 @@ public class HellotController {
     Logger logger = LoggerFactory.getLogger(HellotController.class);
     @RequestMapping("/say")
     public String say(){
-        logger.info("1231123");
+        logger.info("1231123---------");
         return "hello spring boot";
     }
 }
