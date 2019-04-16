@@ -1,0 +1,13 @@
+server:
+  port: 8088
+
+spring:
+  druid:
+    url: jdbc:mysql://192.168.1.111:3306/sell?useUnicode=true&characterEncoding=utf8&serverTimezone=GMT
+    driverClassName: com.mysql.jdbc.Driver
+    username: root
+    password: 123456
+    maxActive: 30
+    maxWait: 10000
+  jpa:
+    show-sql: true
